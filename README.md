@@ -72,4 +72,4 @@ Build a React frontend to interact with the Flask API.
 
 📜 License
 
-MIT License – free to use and modify.
+free to use and modify.
