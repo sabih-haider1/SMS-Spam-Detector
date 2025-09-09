@@ -54,9 +54,11 @@ python3 app.py
 
 Then open browser → http://127.0.0.1:5000
 
-🖼 Demo Screenshots
+🖼 Screenshots
 
-(Add screenshots of your app here for LinkedIn showcase)
+<img width="1440" height="900" alt="Screenshot 201" src="https://github.com/user-attachments/assets/fda156ca-dc99-4aa9-a9aa-74b6c895a2e8" />
+<img width="1440" height="900" alt="Screenshot 200" src="https://github.com/user-attachments/assets/17f92e90-422f-4855-be79-56c5d07c4723" />
+
 
 🔮 Future Improvements
 
